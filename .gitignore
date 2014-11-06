@@ -18,3 +18,6 @@ UpgradeLog.htm
 DB/.DS_Store
 WebGoat/DB_Scripts/.DS_Store
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
