@@ -1,6 +1,7 @@
 # Project Files #
 #################
 *.userprefs
+WebGoat/WebGoat.NET.csproj.user
 WebGoat/WebGoat.NET.pidb
 WebGoat/bin
 WebGoat/obj
@@ -17,4 +18,3 @@ UpgradeLog.htm
 DB/.DS_Store
 WebGoat/DB_Scripts/.DS_Store
 *.suo
-*.user
