@@ -8,9 +8,13 @@ WebGoat/App_Data/*.txt
 WebGoat/App_Data/.DS_Store
 WebGoat/App_Data/*.sqlite 
 WebGoat/Configuration/*.config
+Backup/
+UpgradeLog.htm
 
 # Trash Files #
 ###############
 .DS_Store
 DB/.DS_Store
 WebGoat/DB_Scripts/.DS_Store
+*.suo
+*.user
